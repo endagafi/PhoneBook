@@ -1,0 +1,13 @@
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.AboutForm.resources
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.RegisterForm.resources
+C:\Users\Msi\Documents\Projects\bairesdev\PhoneBook\obj\Debug\PhoneBook.SearchForm.resources
